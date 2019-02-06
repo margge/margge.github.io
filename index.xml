@@ -27,13 +27,14 @@ I had the opportunity to know about mobile development and to get involved in An
       <pubDate>Wed, 01 Aug 2018 08:41:49 +0000</pubDate>
       
       <guid>https://margge.github.io/experience/</guid>
-      <description>ANDROID DEVELOPER July 2017 – Currently
-Blanc Labs
-I am working in the construction and development of Android native applications using Kotlin most of the time. Also, I am working with gRPC, RxJava, Material Design, Git, Java, XML, WebServices, Gradle, Unit testing, dependency injection, Data-binding, Architecture MVVM, Android Architecture Components (Live Data and ViewModel) and Android libraries.
+      <description>ANDROID DEVELOPER October 2018 – Currently
+Nisum
+I am working in the construction and development of Bci bank application using Java &amp;amp; Kotlin.
+Also, I am working with http services, RxJava, Material Design, Git, Java, XML, WebServices, Gradle, Unit testing, dependency injection, Clean Architecture, Android Architecture Components (Live Data and ViewModel) and Android libraries.
 
-ANDROID DEVELOPER October 2015 – July 2017
-Tappsi
-Here in Tappsi I was working in the construction and development of Android native applications.</description>
+ANDROID DEVELOPER July 2017 – October 2018
+Blanc Labs
+In Blanc Labs I was working in the construction and development of Android native applications using Kotlin most of the time.</description>
     </item>
     
     <item>
@@ -43,12 +44,12 @@ Here in Tappsi I was working in the construction and development of Android nati
       
       <guid>https://margge.github.io/portofolio/</guid>
       <description>Applications below are part of the portfolio in which I have worked:
+ Bci
+Banking app to make transactions, payments and know about credits and account details.
  Nekso Passenger &amp;amp; Nekso Driver
 Nekso is a transportation ecosystem that connects passengers to a network of taxi companies.
  Tappsi Driver &amp;amp; Tappsi Passenger
-Tappsi is the Colombian app to connect a passenger with a driver, also allows to share the taxi license plates via email, social networks or SMS/iMessage.
- weHive
-A social network dedicated to connecting artists and fans during live music events, gigs and festivals</description>
+Tappsi is the Colombian app to connect a passenger with a driver, also allows to share the taxi license plates via email, social networks or SMS/iMessage.</description>
     </item>
     
     <item>
