@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://margge.github.io/portofolio/</loc>
-    <lastmod>2018-08-01T08:41:49+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://margge.github.io/studies/</loc>
     <lastmod>2018-08-01T08:41:49+00:00</lastmod>
   </url>
@@ -31,6 +26,10 @@
   <url>
     <loc>https://margge.github.io/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://margge.github.io/portofolio/</loc>
   </url>
   
   <url>

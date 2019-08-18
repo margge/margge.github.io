@@ -38,21 +38,6 @@ In Blanc Labs I was working in the construction and development of Android nativ
     </item>
     
     <item>
-      <title>Portofolio</title>
-      <link>https://margge.github.io/portofolio/</link>
-      <pubDate>Wed, 01 Aug 2018 08:41:49 +0000</pubDate>
-      
-      <guid>https://margge.github.io/portofolio/</guid>
-      <description>Applications below are part of the portfolio in which I have worked:
- Bci
-Banking app to make transactions, payments and know about credits and account details.
- Nekso Passenger &amp;amp; Nekso Driver
-Nekso is a transportation ecosystem that connects passengers to a network of taxi companies.
- Tappsi Driver &amp;amp; Tappsi Passenger
-Tappsi is the Colombian app to connect a passenger with a driver, also allows to share the taxi license plates via email, social networks or SMS/iMessage.</description>
-    </item>
-    
-    <item>
       <title>Studies</title>
       <link>https://margge.github.io/studies/</link>
       <pubDate>Wed, 01 Aug 2018 08:41:49 +0000</pubDate>
@@ -67,6 +52,23 @@ Bogotá, D. C., 2012
 CERTIFIED Universidad Minuto de Dios
 Diplomado in Computer Networking &amp;amp; Security
 Bogotá, D.C., 2008</description>
+    </item>
+    
+    <item>
+      <title>Portofolio</title>
+      <link>https://margge.github.io/portofolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://margge.github.io/portofolio/</guid>
+      <description>Applications below are part of the portfolio in which I have worked:
+ Bci
+Banking app to make transactions, payments and know about credits and account details.
+ Pomotimer
+Personal project
+ Nekso Passenger &amp;amp; Nekso Driver
+Nekso is a transportation ecosystem that connects passengers to a network of taxi companies.
+ Tappsi Passenger &amp;amp; Tappsi Driver
+Tappsi is the Colombian app to connect a passenger with a driver, also allows to share the taxi license plates via email, social networks or SMS/iMessage.</description>
     </item>
     
   </channel>
